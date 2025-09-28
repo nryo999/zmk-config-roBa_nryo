@@ -99,7 +99,7 @@
             label = "ENCODER_CURSOR_LEFT_RIGHT";
             #sensor-binding-cells = <0>;
             bindings = <&kp RIGHT_ARROW>, <&kp LEFT_ARROW>;
-            tap-ms = <20>
+            tap-ms = <20>;
         };
     };
 
